@@ -1,4 +1,4 @@
-package com.GoMarketplace;
+package com.gomarketplace;
 
 import android.app.Application;
 import android.content.Context;
